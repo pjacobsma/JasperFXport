@@ -19,5 +19,5 @@ You can print the report, or export it to PDF, Excel, or HTML.
 
 
 
-![image](docs/JasperFXport.jpg)
+![alt text](https://github.com/pjacobsma/JasperFXport/tree/master/JasperFXport/docs/JasperFXport.jpg?raw=true)
 
