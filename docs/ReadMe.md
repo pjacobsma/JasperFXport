@@ -18,6 +18,6 @@ You can print the report, or export it to PDF, Excel, or HTML.
 
 
 
-![alt text](https://github.com/pjacobsma/JasperFXport/docs/JasperFXport.JPG?raw=true)
+![alt text](https://github.com/pjacobsma/JasperFXport/edit/main/docs/JasperFXport.JPG?raw=true)
 
 
